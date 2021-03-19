@@ -15,7 +15,7 @@ public final class PGTStudent extends AbstractTaughtStudent {
 	private int PASSMARK = 50;
 	
 	/**
-	 * Constructs a concert implementation of a taught UGStudent
+	 * Constructs a concert implementation of a taught PGTStudent
 	 *
 	 * @see AbstractTaughtStudent#AbstractTaughtStudent(Name, Date, StudentType)
 	 * 
